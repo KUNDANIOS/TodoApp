@@ -39,3 +39,64 @@ Users can:
 ---
 
 ## 📂 Project Structure
+TodoApp
+│
+├── src
+│ ├── components
+│ ├── screens
+│ ├── navigation
+│ ├── services
+│ └── utils
+│
+├── android
+├── ios
+├── App.tsx
+└── package.json
+
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/KUNDANIOS/TodoApp.git
+cd TodoApp
+npm install
+npx react-native start
+npx react-native run-android
+npx react-native run-ios
+
+💡 Optional Enhancements (Bonus Features)
+
+The following improvements can enhance the app:
+
+📅 Task due date reminders
+
+🧠 Smart task sorting algorithm (deadline + priority)
+
+🏷 Task categories / tags
+
+🔍 Filter and search tasks
+
+🎨 Improved UI / animations
+
+🌐 Backend API with Node.js / NestJS
+
+🗄 Database integration using MongoDB
+
+
+👨‍💻 Author
+
+Kundan Kumar Yadav
+
+💼 MERN Stack Developer
+
+📍 Bengaluru, India
+
+GitHub:
+https://github.com/KUNDANIOS
+
+LinkedIn:
+https://www.linkedin.com/in/kundanyadv/
