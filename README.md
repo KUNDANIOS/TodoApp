@@ -68,35 +68,3 @@ npx react-native start
 npx react-native run-android
 npx react-native run-ios
 
-💡 Optional Enhancements (Bonus Features)
-
-The following improvements can enhance the app:
-
-📅 Task due date reminders
-
-🧠 Smart task sorting algorithm (deadline + priority)
-
-🏷 Task categories / tags
-
-🔍 Filter and search tasks
-
-🎨 Improved UI / animations
-
-🌐 Backend API with Node.js / NestJS
-
-🗄 Database integration using MongoDB
-
-
-👨‍💻 Author
-
-Kundan Kumar Yadav
-
-💼 MERN Stack Developer
-
-📍 Bengaluru, India
-
-GitHub:
-https://github.com/KUNDANIOS
-
-LinkedIn:
-https://www.linkedin.com/in/kundanyadv/
